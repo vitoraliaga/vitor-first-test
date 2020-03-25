@@ -57,4 +57,3 @@ plt.show()
 success = np.count_nonzero(ends >= 60)
 success_chance = success/10000
 print(success_chance)
-print(success_chance)
